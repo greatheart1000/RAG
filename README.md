@@ -58,6 +58,16 @@ RAG项目
     └── app.py                    # Flask API服务
 ```
 
+![AI知识库](images/AI知识库.png)
+
+
+![AI知识库1](images/AI知识库1.png)
+
+
+![架构](images/语义检索.png)
+
+
+
 ## 🚀 快速开始
 
 ### 环境要求
